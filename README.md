@@ -1,4 +1,4 @@
-![justpure.dev](assets/logo.png)
+![https://start.whatmin.com/](assets/logo.png)
 
 一个现代化，美观简洁高效的浏览器起始页，使用 Next.js 构建
 
@@ -13,15 +13,7 @@
 
 ## 预览
 
-[在线预览](https://justpure.dev)
-
-## 截图
-
-![屏幕截图_20250306_200031](https://github.com/user-attachments/assets/d2e85a6d-5eae-423c-8101-edbcd8110eb2)
-
-![屏幕截图_20250306_194552](https://github.com/user-attachments/assets/8e2c57aa-126e-412b-a4a7-3276a8989ad3)
-
-![屏幕截图_20250306_194528](https://github.com/user-attachments/assets/0a80b9e6-d229-42e0-be86-f70364255139)
+[在线预览](https://start.whatmin.com/)
 
 ## 参与开发
 
