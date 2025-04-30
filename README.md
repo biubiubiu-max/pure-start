@@ -19,7 +19,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/grtsinry43/pure-start.git
+git clone https://github.com/biubiubiu-max/pure-start.git
 
 # 进入项目目录
 cd pure-start
