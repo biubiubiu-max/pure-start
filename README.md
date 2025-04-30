@@ -1,4 +1,4 @@
-![https://start.whatmin.com/](assets/logo.png)
+![https://start.whatmin.com](assets/logo.png)
 
 一个现代化，美观简洁高效的浏览器起始页，使用 Next.js 构建
 
